@@ -32,4 +32,4 @@ I am interested in contributing to AI development by helping create high-quality
 
 ## Contact
 +2347070398186
-GitHub:omotoyeabiodun48
+GitHub:omotoyeabiodun48-cpu
